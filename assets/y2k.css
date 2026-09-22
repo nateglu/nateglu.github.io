@@ -138,6 +138,10 @@ footer.site .credit{font:400 10px var(--pix)}footer.site .star-note{color:#a00}
 }
 @media (max-width:420px){.people,.thumbs,.picks{grid-template-columns:repeat(2,1fr)}.side{grid-template-columns:1fr}}
 @media (prefers-reduced-motion:reduce){.ticker .track,.ticker .new,#door .load i,#door .hint,.bigclock .pend,.bigclock .gear{animation:none}.ticker .track{padding-left:8px}#door .load i{width:100%}#door .hint{opacity:1}}
+/* music front page: the MASTO clips play right there (Nate, 9/22); a folder's lead photos sit big above its thumbnails */
+.film{display:flex;flex-direction:column;gap:14px;margin:0 0 14px}   /* one clip per row, full width, the way the FOREVER page stacks them (Nate, 9/22: the two-across grid felt messy) */
+.film .clip .t{display:block;text-align:center;margin-top:5px;font-size:12px;color:var(--link);text-decoration:underline;font-weight:bold}.film .clip .t:hover{background:none;color:#c00}
+.figs.lead{margin-bottom:14px}.figs.lead figure a:hover{background:none}.figs.lead figure:hover{border-color:#c00;box-shadow:0 0 0 1px #c00,2px 2px 0 rgba(0,0,0,.18)}
 
 
 :root{--bg:#070b1f;--paper:#eef1f5;--bar1:#0a246a;--bar2:#3a6ea5;--link:#0033cc;--visited:#551a8b;--silver:#d4d0c8;--lcd:#0c1a10}

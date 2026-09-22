@@ -2,52 +2,51 @@
 
 Nate Graham. Design, music, brand building.
 
-- [GLU. logo](https://nateglu.github.io/p/2024-glu-marks/): Logo
-- [Property of GLU. Athletics](https://nateglu.github.io/p/2026-property-of-glu-athletics/): Graphic
-- [Property of GLU. hoodie](https://nateglu.github.io/p/2026-property-of-hoodie/): Hoodie
-- [Truecuir](https://nateglu.github.io/p/2026-truecuir/): Logos and graphics
-- [Made With Love](https://nateglu.github.io/p/2026-made-with-love/): Graphics
-- [Per Usual](https://nateglu.github.io/p/2026-per-usual/): Logos
-- [Property of GLU. shorts](https://nateglu.github.io/p/2026-property-of-shorts/): Shorts
-- [1995 Tennis tee](https://nateglu.github.io/p/2026-1995-tennis-tee/): Tee
-- [Continued Growth wreath](https://nateglu.github.io/p/2026-continued-growth-wreath/): Graphic
-- [Continued Growth thermal](https://nateglu.github.io/p/2025-continued-growth-thermal/): Tech pack and flats
-- [CNTRL tee](https://nateglu.github.io/p/2025-cntrl-tee/): Tech pack
-- [Change the way you look at things](https://nateglu.github.io/p/2026-change-the-way-you-look-at-things/): Collage
-- [Continued Growth hoodie](https://nateglu.github.io/p/2026-continued-growth-hoodie/): Hoodie
-- [Continued Growth labels](https://nateglu.github.io/p/2026-continued-growth-labels/): Labels and wordmark
-- [Design studio label](https://nateglu.github.io/p/2026-design-studio-backpack/): Label
-- [Art Matters cap](https://nateglu.github.io/p/2026-art-matters-cap/): Cap
-- [Perfecting Progression](https://nateglu.github.io/p/2026-perfecting-progression/): Graphics
-- [Control what you can control](https://nateglu.github.io/p/2026-control-what-you-can-control/): Poster
-- [LMK](https://nateglu.github.io/p/2026-lmk/): Graphic
-- [GLU. Recording Studio](https://nateglu.github.io/p/2026-glu-recording-studio/): Graphic
-- [GLU. Athletics star](https://nateglu.github.io/p/2026-glu-athletics-star/): Graphic
-- [44](https://nateglu.github.io/p/2026-44-minneapolis/): Graphics, made for myself
-- [Mind Over Matter social graphics](https://nateglu.github.io/p/2026-mind-over-matter-social/): Social graphics
-- [Public Records logo](https://nateglu.github.io/p/2026-public-records-logo/): Logo
-- [publicrecordsmusic.com](https://nateglu.github.io/p/2026-publicrecordsmusic/): Website, designed
-- [glu-athletics.com](https://nateglu.github.io/p/2025-glu-athletics-site/): Website, designed and built
-- [HABITS](https://nateglu.github.io/p/2026-masto-habits/): Single, cover art
-- [FOREVER](https://nateglu.github.io/p/2026-masto-forever/): EP
-- [MASTO](https://nateglu.github.io/p/2026-masto-world/): Creative direction
-- [Puka Nacua](https://nateglu.github.io/p/2025-puka-nacua/): Rams wide receiver
-- [Jevon Holland](https://nateglu.github.io/p/2025-jevon-holland/): Giants safety
-- [Shane](https://nateglu.github.io/p/2025-shane/): Fit creator
-- [SoSoCamo](https://nateglu.github.io/p/2026-sosocamo/): Rapper
-- [Jordan Dwyer](https://nateglu.github.io/p/2025-jordan-dwyer/): TCU wide receiver
-- [Stone Smartt](https://nateglu.github.io/p/2025-stone-smartt/): Jets tight end
-- [WornWhere](https://nateglu.github.io/p/2025-wornwhere/): Athlete style feature
-- [Laglivin](https://nateglu.github.io/p/2025-laglivin/): Monthly drop recap
-- [The beanie](https://nateglu.github.io/p/2025-glu-beanie/): Beanie
-- [Mind Over Matter campaign](https://nateglu.github.io/p/2025-mind-over-matter-buzz/): Campaign
-- [Workmen jacket and pant](https://nateglu.github.io/p/2025-glu-workmen/): Jacket and pant
-- [The duffle](https://nateglu.github.io/p/2025-glu-duffle/): Duffle bag
-- [Hard questions, episode one](https://nateglu.github.io/p/2025-hard-questions-episode-one/): Video
-- [Perfecting Progression Podcast](https://nateglu.github.io/p/2025-perfecting-progression-podcast/): Podcast
-- [Stick Together shoot](https://nateglu.github.io/p/2024-joseph-davis-jr/): Photos by Joseph Davis Jr.
-- [Stick Together hoodie](https://nateglu.github.io/p/2025-glu-globe-hoodie/): Hoodie
-- [Stick Together film](https://nateglu.github.io/p/2024-stick-together-film/): Film
-- [Nate](https://nateglu.github.io/p/me/): About
+- [GLU. logo](https://nateglu.art/p/2024-glu-marks/): Logo
+- [Property of GLU. Athletics](https://nateglu.art/p/2026-property-of-glu-athletics/): Graphic
+- [Property of GLU. hoodie](https://nateglu.art/p/2026-property-of-hoodie/): Hoodie
+- [Truecuir](https://nateglu.art/p/2026-truecuir/): Logos and graphics
+- [Made With Love](https://nateglu.art/p/2026-made-with-love/): Graphics
+- [Per Usual](https://nateglu.art/p/2026-per-usual/): Logos
+- [Property of GLU. shorts](https://nateglu.art/p/2026-property-of-shorts/): Shorts
+- [1995 Tennis tee](https://nateglu.art/p/2026-1995-tennis-tee/): Tee
+- [Change the way you look at things](https://nateglu.art/p/2026-change-the-way-you-look-at-things/): Collage
+- [Continued Growth hoodie](https://nateglu.art/p/2026-continued-growth-hoodie/): Hoodie
+- [Continued Growth labels](https://nateglu.art/p/2026-continued-growth-labels/): Labels and wordmark
+- [Art Matters cap](https://nateglu.art/p/2026-art-matters-cap/): Cap
+- [Perfecting Progression](https://nateglu.art/p/2026-perfecting-progression/): Graphics
+- [Control what you can control](https://nateglu.art/p/2026-control-what-you-can-control/): Poster
+- [LMK](https://nateglu.art/p/2026-lmk/): Graphic
+- [GLU. Recording Studio](https://nateglu.art/p/2026-glu-recording-studio/): Graphic
+- [GLU. Athletics star](https://nateglu.art/p/2026-glu-athletics-star/): Graphic
+- [44](https://nateglu.art/p/2026-44-minneapolis/): Graphics, made for myself
+- [Mind Over Matter social graphics](https://nateglu.art/p/2026-mind-over-matter-social/): Social graphics
+- [Public Records logo](https://nateglu.art/p/2026-public-records-logo/): Logo
+- [HABITS](https://nateglu.art/p/2026-masto-habits/): Single, cover art
+- [MASTO, July](https://nateglu.art/p/2026-masto-july/): Photos
+- [FOREVER](https://nateglu.art/p/2026-masto-forever/): EP
+- [MASTO](https://nateglu.art/p/2026-masto-world/): Creative direction
+- [Puka Nacua](https://nateglu.art/p/2025-puka-nacua/): Rams wide receiver
+- [Derrick White](https://nateglu.art/p/2026-derrick-white/): Celtics guard
+- [Jevon Holland](https://nateglu.art/p/2025-jevon-holland/): Giants safety
+- [Shane](https://nateglu.art/p/2025-shane/): Fit creator
+- [SoSoCamo](https://nateglu.art/p/2026-sosocamo/): Rapper
+- [Jordan Dwyer](https://nateglu.art/p/2025-jordan-dwyer/): TCU wide receiver
+- [Stone Smartt](https://nateglu.art/p/2025-stone-smartt/): Jets tight end
+- [Dior Johnson](https://nateglu.art/p/2025-dior-johnson/): Podcast host
+- [publicrecordsmusic.com](https://nateglu.art/p/2026-publicrecordsmusic/): Website, designed
+- [WornWhere](https://nateglu.art/p/2025-wornwhere/): Athlete style feature
+- [Laglivin](https://nateglu.art/p/2025-laglivin/): Monthly drop recap
+- [The beanie](https://nateglu.art/p/2025-glu-beanie/): Beanie
+- [Mind Over Matter campaign](https://nateglu.art/p/2025-mind-over-matter-buzz/): Campaign
+- [Workmen jacket and pant](https://nateglu.art/p/2025-glu-workmen/): Jacket and pant
+- [The duffle](https://nateglu.art/p/2025-glu-duffle/): Duffle bag
+- [glu-athletics.com](https://nateglu.art/p/2025-glu-athletics-site/): Website, designed and built
+- [Hard questions, episode one](https://nateglu.art/p/2025-hard-questions-episode-one/): Video
+- [Perfecting Progression Podcast](https://nateglu.art/p/2025-perfecting-progression-podcast/): Podcast
+- [Stick Together shoot](https://nateglu.art/p/2024-joseph-davis-jr/): Photos by Joseph Davis Jr.
+- [Stick Together hoodie](https://nateglu.art/p/2025-glu-globe-hoodie/): Hoodie
+- [Stick Together film](https://nateglu.art/p/2024-stick-together-film/): Film
+- [Nate](https://nateglu.art/p/me/): About
 
 Contact: nategraham@glu-athletics.com · https://www.instagram.com/nate.glu/
