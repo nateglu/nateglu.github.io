@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nateglu.github.io/sitemap.xml
